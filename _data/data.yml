@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Pranjal Mangal
     tagline: Computer Vision and Machine Learning Enthusiast
-    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: prnjlmangal@gmail.com
@@ -90,7 +90,7 @@ news:
 education:
     - degree: B.Tech Electrical Engineering
       university: Indian Institute of Technology, Roorkee
-      time: 2018-Present
+      time: 2018-current
       details: |
         CGPA: 9.52
       
@@ -138,85 +138,145 @@ educationcomplete:
         Quantitative Strategist
 
 
-experiences:
-    - role: Mentor
-      time: November 2020 - Present
-      company: SMP, IIT Roorkee
-      details: |
-        Mentoring fresh undergrad students admitted to IIT Roorkee through JEE Advanced.
-    - role: Member
-      time: 2019 - Present
-      company: ArIES, IIT Roorkee
-      details: |
-        ArIES is a cluster of tech enthusiasts who experiment with Artificial Intelligence and Electronics. Our team has successfully
-        represented the institute at various national and international competitions related to our field.
+#experiences:
+    #- role: Lead Developer
+      #time: 2015 - Present
+      #company: Startup Hubs, San Francisco
+      #details: |
+        #Describe your role here lorem ipsum dolor sit amet, consectetuer
+        #adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        #Cum sociis natoque penatibus et magnis dis parturient montes,
+        #nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        #pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+        #enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+        #error sit voluptatem accusantium doloremque laudantium, totam rem
+        #aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+        #architecto beatae vitae dicta sunt explicabo.
 
-    - role: Teaching Assistant
-      time: Jan 2020 - March 2020
-      company: ARP, IIT Roorkee
-      details: |
-        Was responsible for clearing doubts, taking revision classes and providing study material to the students taking up the course (Applied Physics). 
+          #- Bullet point
+          #- Bullet point
+
+    #- role: Senior Software Engineer
+      #time: 2014 - 2015
+      #company: Google, London
+      #details: |
+        #Describe your role here lorem ipsum dolor sit amet, consectetuer
+        #adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        #Cum sociis natoque penatibus et magnis dis parturient montes,
+        #nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        #pellentesque eu, pretium quis, sem.
+
+          #- Bullet point
+          #- Bullet point
+
+    #- role: UI Developer
+      #time: 2012 - 2014
+      #company: Amazon, London
+      #details: |
+        #Describe your role here lorem ipsum dolor sit amet, consectetuer
+        #adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        #Cum sociis natoque penatibus et magnis dis parturient montes,
+        #nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        #pellentesque eu, pretium quis, sem.
+
+          #- Bullet point
+          #- Bullet point
+
+#projects:
+    #title: Projects
+    #intro: >
+      #You can list your side projects or open source libraries in this
+      #section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      #Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+
+    #assignments:
+      #- title: Velocity
+        #link: "#hook"
+        #tagline: "A responsive website template designed to help startups promote, market and sell their products."
+
+      #- title: DevStudio
+        #link: "#"
+        #tagline: "A responsive website template designed to help web developers/designers market their services."
+
+      #- title: Tempo
+        #link: "#"
+        #tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+      #- title: Atom
+        #link: "#"
+        #tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+      #- title: Delta
+        #link: "#"
+        #tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+publications:
+    title: Publications
+    intro: |
       
-    - role: Member
-      time: July 2018 - May 2019
-      company: National Service Scheme, IIT Roorkee
-      details: |
-        Completed a year under National Service Scheme in the field of Web Development. Our team was responsible for maintaining the 
-        Institute NSS website. Also helped in creating awareness for social issues and promoting the events addressing the same. 
 
-    - role: Volunteer
-      time: March 2019
-      company: Cognizance, IIT Roorkee
-      details: |
-        Helped in successfully concluding Departmental Cognizance 2019.
+    papers:
+      - title: "Unsupervised behaviour analysis and magnification (uBAM) using deep learning"
+        authors: B. Brattoli*, U. Büchler*, M. Dorkenwald, P. Reiser, F. Helmchen, A. S. Wahl, B. Ommer
+        conference: Nature Machine Intelligence, 2021
+      
+      - title: "Sharing Matters for Generalization in Deep Metric Learning"
+        authors: T. Milbich*, K. Roth*, B. Brattoli, B. Ommer
+        conference: tPAMI, 2020
+        
+      - title: "Rethinking Zero-shot Video Classification: End-to-end Training for Realistic Applications"
+        authors: B. Brattoli, J. Tighe, F. Zhdanov, P. Perona, K. Chalupka
+        conference: CVPR, 2020
+        
+      - title: "MIC: Mining Interclass Characteristics for Improved Metric Learning"
+        authors: B. Brattoli*, K. Roth*, B. Ommer
+        conference: ICCV, 2019
 
-projects:
-    title: Projects
-    intro: >
-      List of Projects undertaken in my Undergrad :
+      - title: "Improving Spatiotemporal Self-Supervision by Deep Reinforcement Learning"
+        authors: B. Brattoli*, U. Buechler*, B. Ommer
+        conference: ECCV, 2018
 
-    assignments:
-      - title: Indian Equities Project
-        link: "https://github.com/ariesiitr/Trading-Desk"
-        tagline: "Chatbot to provide suggestions for BSE Investing."
+      - title: "LSTM Self-Supervision for Detailed Behavior Analysis"
+        authors: B. Brattoli*, U. Buechler*, A. Wahl, M. Schwab, B. Ommer
+        conference: CVPR, 2017
 
-      - title: Feedback Prediction System
-        #link: "#"
-        tagline: "An NLP based system that can be used to store the vocal feedback of an exhibit and also score it depending on the feedback by the visitor."
+      - title: "Cross and Learn: Cross-Modal Self-Supervision"
+        authors: N. Sayer, B. Brattoli, B. Ommer
+        conference: oral at GCPR, 2018
 
-      - title: Eye Controlled Wheelchair
-        link: "https://github.com/mangalpranjal/Eye-Controlled-Wheelchair"
-        tagline: "Prototype of a wheelchair for people who have lost their ability of locomotion using legs and forearms."
+      - title: "X-GAN: Improving Generative Adversarial Networks with ConveX Combinations"
+        authors: O. Blum, B. Brattoli, B. Ommer
+        conference: oral at GCPR, 2018
 
-      - title: Automated Drone
-        #link: "#"
-        tagline: "A Quadcopter that takes off and lands following a predetermined path with the help of external GPS without using manual controller."
-
-      - title: Cleaning Bot
-        link: "https://github.com/mangalpranjal/cleaning-bot"
-        tagline: "A smart bot with mops and vacuum cleaner that can clean any size spaces"
+      - title: "Optogenetically stimulating intact rat corticospinal tract post-stroke restores motor control through regionalized functional circuit formation"
+        authors: A. S. Wahl*, U. Büchler*, A. Brändli, B. Brattoli, S. Musall, H. Kasper, B. V. Ineichen, F. Helmchen, B. Ommer & M. E. Schwab
+        conference: "Nature Communications, 2017"
+        
+      - title: "Early reduced behavioral activity induced by large strokes affects the efficiency of enriched environment in rats"
+        authors: A. S. Wahl, Erlebach, E, B. Brattoli, U. Büchler, J. Kaiser, V.B. Ineichen, A.C. Mosberger, S. Schneeberger, S. Imobersteg, M. Wieckhorst, M. Stirn, A. Schroeter, B. Ommer, M.E. Schwab
+        conference: "Journal of Cerebral Blood Flow & Metabolism, 2018"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
       - name: Python
-        level: 
+        level: 100%
+
+      - name: PyTorch
+        level: 90%
+
+      - name: Tensorflow
+        level: 60%
+
+      - name: Caffe
+        level: 80%
+
+      - name: Matlab
+        level: 90%
 
       - name: C/C++
-        level: 
-
-      - name: Arduino/ Raspberry Pi
-        level: 
-
-      - name: Finance
-        level: 
-
-      - name: Competitive Programming
-        level: 
-
-      - name: Github
-        level: 
+        level: 75%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="https://www.linkedin.com/in/pranjal-mangal-250327171/" target="_blank" rel="nofollow">Pranjal Mangal</a>
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
