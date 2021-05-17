@@ -1,0 +1,222 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Pranjal Mangal
+    tagline: Computer Vision and Machine Learning Enthusiast
+    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: prnjlmangal@gmail.com
+    phone: +91 7747014201
+    website: 
+    linkedin: pranjal-mangal-250327171
+    github: mangalpranjal
+    gitlab:
+    bitbucket:
+    twitter: '@MangalPranjal'
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+
+    languages:
+      - idiom: English
+        level: Fluent
+
+      - idiom: Hindi
+        level: Native
+
+    interests:
+      - item: Outdoor Sports
+        link:
+
+      - item: Binge Watching
+        link:
+
+career-profile:
+    title: Career Profile
+    summary: |
+      Currently full-time Student at Indian Institute of Technology, Roorkee. Have successfully completed and supervised numerous Computer Vision and Machine Learning
+      projects till date. Part time Competitive Programmer and a highly motivated folk. Have successfully explored many domains of Technology including Web Development, ML, Drones,
+      Arduino/Raspberry Pi, Algorithmic Trading and many more. With a current CGPA of 9.526, I currently stand at Number 5 in Electrical Engineering Department.
+
+news:
+    title: News
+    intro: |
+        
+    
+    posts:
+        - time: December 2020
+          title: Completed 2 month long internship with Versor Investments as a Quantitative Strategist.
+        
+        - time: September 2020
+          title: Bagged an Internship with Nvidia Graphics through Campus Placement Cell.
+          
+        - time: March 2020
+          title: The pandemic arouses fears in India. Complete lockdown forced in the country.
+          
+        - time: December 2019
+          title: Successfully demonstrated Eye Controlled Wheelchair Project in Inter IIT Tech Meet 8.0 . Our contingent bagged overall first prize.
+          
+        - time: July 2019
+          title: Successfully made a drone controlled by Pixhawk flight controller.
+
+        - time: March 2019
+          title: Completed my first College Project using Arduino (Cleaning Bot).
+        
+        - time: January 2019.
+          title: Binge Watched complete MCU for the first time.
+        
+        - time: December 2018
+          title: Received Semester 1 Grades with Overall Grade Point of 9.47.
+        
+        - time: June 2018
+          title: Achieved AIR 1512 in JEE Advanced in shortlisted 2 lakh candidates.
+        
+        - time: April 2018
+          title: Achieved AIR 1490 in JEE Mains in nearly 14 lakh applicants.
+        
+        - time: 2018
+          title: Successfully completed high school with percentage of 93.2 % (CBSE).
+        
+        - time: 2016
+          title: Successfully completed Class X with a grade point of 10.
+
+education:
+    - degree: B.Tech Electrical Engineering
+      university: Indian Institute of Technology, Roorkee
+      time: 2018-Present
+      details: |
+        CGPA: 9.52
+      
+    - degree: Class XII
+      university: Aklank Day Boarding and Residential School, Kota
+      time: 2017-2018
+      details: |
+        Percentage: 93.2
+     
+    - degree: Class X
+      university: Delhi Public School, Gwalior
+      time: 2015-2016
+      details: |
+        CGPA: 10
+
+    - degree: Internship (Versor Investments)
+      university: USA
+      time: October 2020- December 2020
+      details: |
+        Quantitative Strategist
+
+educationcomplete:
+    - degree: B.Tech Electrical Engineering
+      university: Indian Institute of Technology, Roorkee
+      time: 2018-current
+      details: |
+        CGPA: 9.52
+      
+    - degree: Class XII
+      university: Aklank Day Boarding and Residential School, Kota
+      time: 2017-2018
+      details: |
+        Percentage: 93.2
+     
+    - degree: Class X
+      university: Delhi Public School, Gwalior
+      time: 2015-2016
+      details: |
+        CGPA: 10
+
+    - degree: Internship (Versor Investments)
+      university: USA
+      time: October 2020- December 2020
+      details: |
+        Quantitative Strategist
+
+
+experiences:
+    - role: Mentor
+      time: November 2020 - Present
+      company: SMP, IIT Roorkee
+      details: |
+        Mentoring fresh undergrad students admitted to IIT Roorkee through JEE Advanced.
+    - role: Member
+      time: 2019 - Present
+      company: ArIES, IIT Roorkee
+      details: |
+        ArIES is a cluster of tech enthusiasts who experiment with Artificial Intelligence and Electronics. Our team has successfully
+        represented the institute at various national and international competitions related to our field.
+
+    - role: Teaching Assistant
+      time: Jan 2020 - March 2020
+      company: ARP, IIT Roorkee
+      details: |
+        Was responsible for clearing doubts, taking revision classes and providing study material to the students taking up the course (Applied Physics). 
+      
+    - role: Member
+      time: July 2018 - May 2019
+      company: National Service Scheme, IIT Roorkee
+      details: |
+        Completed a year under National Service Scheme in the field of Web Development. Our team was responsible for maintaining the 
+        Institute NSS website. Also helped in creating awareness for social issues and promoting the events addressing the same. 
+
+    - role: Volunteer
+      time: March 2019
+      company: Cognizance, IIT Roorkee
+      details: |
+        Helped in successfully concluding Departmental Cognizance 2019.
+
+projects:
+    title: Projects
+    intro: >
+      List of Projects undertaken in my Undergrad :
+
+    assignments:
+      - title: Indian Equities Project
+        link: "https://github.com/ariesiitr/Trading-Desk"
+        tagline: "Chatbot to provide suggestions for BSE Investing."
+
+      - title: Feedback Prediction System
+        #link: "#"
+        tagline: "An NLP based system that can be used to store the vocal feedback of an exhibit and also score it depending on the feedback by the visitor."
+
+      - title: Eye Controlled Wheelchair
+        link: "https://github.com/mangalpranjal/Eye-Controlled-Wheelchair"
+        tagline: "Prototype of a wheelchair for people who have lost their ability of locomotion using legs and forearms."
+
+      - title: Automated Drone
+        #link: "#"
+        tagline: "A Quadcopter that takes off and lands following a predetermined path with the help of external GPS without using manual controller."
+
+      - title: Cleaning Bot
+        link: "https://github.com/mangalpranjal/cleaning-bot"
+        tagline: "A smart bot with mops and vacuum cleaner that can clean any size spaces"
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Python
+        level: 
+
+      - name: C/C++
+        level: 
+
+      - name: Arduino/ Raspberry Pi
+        level: 
+
+      - name: Finance
+        level: 
+
+      - name: Competitive Programming
+        level: 
+
+      - name: Github
+        level: 
+
+footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="https://www.linkedin.com/in/pranjal-mangal-250327171/" target="_blank" rel="nofollow">Pranjal Mangal</a>
