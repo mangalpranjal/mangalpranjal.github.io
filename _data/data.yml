@@ -212,10 +212,12 @@ publications:
         
       - title: "Early reduced behavioral activity induced by large strokes affects the efficiency of enriched environment in rats"
         authors: A. S. Wahl, Erlebach, E, B. Brattoli, U. Büchler, J. Kaiser, V.B. Ineichen, A.C. Mosberger, S. Schneeberger, S. Imobersteg, M. Wieckhorst, M. Stirn, A. Schroeter, B. Ommer, M.E. Schwab
-        conference: "Journal of Cerebral Blood Flow & Metabolism, 2018"
+        conference: |
+        "Journal of Cerebral Blood Flow & Metabolism"
+        - Bullet Point    
 
 news:
-    title: News
+    title: Internship?
     intro: |
         
     
