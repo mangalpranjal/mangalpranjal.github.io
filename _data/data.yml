@@ -40,12 +40,11 @@ publications:
     title: Internship
     intro: |
       
-
     papers:
       - title: "Nvidia Graphics"
         authors: June 2021 - Present | Bangalore, India
         conference: Working on convergence using Reduced RTL. My work involves creating a scalable GUI which categorizes macros, is easily configurable and error free. Also working on scheduled updation of Confluence pages which lists changes in macros over time and values of macros that can be taken up for build thereby saving a lot of time dealing with build errors. 
-    papers:
+    
       - title: "ARP Investments"
         authors: October 2020 - December 2020 | New York, USA
         conference: Worked on factor construction on an alternative data chosen from nearly 130 datasets listed on Eagle Alpha. Tested the signal using alphalens and backtested a Q5-Q1 long short cross-sectional portfolio using pyfolio. 
