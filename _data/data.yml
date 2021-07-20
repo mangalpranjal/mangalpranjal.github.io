@@ -105,31 +105,7 @@ projects:
         tagline: "A smart bot with mops and vacuum cleaner that can clean any size spaces"
 
 
-projects:
-    title: Projects
-    intro: >
-      List of Projects undertaken in my Undergrad :
 
-    assignments:
-      - title: Indian Equities Project
-        link: "https://github.com/ariesiitr/Trading-Desk"
-        tagline: "Chatbot to provide suggestions for BSE Investing."
-
-      - title: Feedback Prediction System
-        #link: "#"
-        tagline: "An NLP based system that can be used to store the vocal feedback of an exhibit and also score it depending on the feedback by the visitor."
-
-      - title: Eye Controlled Wheelchair
-        link: "https://github.com/mangalpranjal/Eye-Controlled-Wheelchair"
-        tagline: "Prototype of a wheelchair for people who have lost their ability of locomotion using legs and forearms."
-
-      - title: Automated Drone
-        #link: "#"
-        tagline: "A Quadcopter that takes off and lands following a predetermined path with the help of external GPS without using manual controller."
-
-      - title: Cleaning Bot
-        link: "https://github.com/mangalpranjal/cleaning-bot"
-        tagline: "A smart bot with mops and vacuum cleaner that can clean any size spaces"
 
 skills:
     title: Skills &amp; Proficiency
