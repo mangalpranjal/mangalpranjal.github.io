@@ -32,11 +32,12 @@ sidebar:
         level: Native
 
 career-profile:
-    title: Career Profile
+    title: Profile
     summary: |
-      Currently full-time Student at Indian Institute of Technology, Roorkee. Have successfully completed and supervised numerous Computer Vision and Machine Learning
-      projects till date. Part time Competitive Programmer and a highly motivated folk. Have successfully explored many domains of Technology including Web Development, ML, Drones,
-      Arduino/Raspberry Pi, Algorithmic Trading and many more. With a current CGPA of 9.526, I currently stand at Number 5 in Electrical Engineering Department.
+      Pre-final year student at Indian Institute of Technology, Roorkee with majors in Electrical Engineering and minors in Computer Science and Engineering. With some tremendous
+      contributions in field of Software Development, Data Science and Electrical Engineering alongwith CGPA of 9.526, I am a highly motivated folk. My time management skills are
+      allow me to take up any challenging task successfully. My expericences in wide variety of fields have enabled me to create end to end applications. I am a constant learner
+      and goto person for any kind of task.
 
 publications:
     title: Internship
@@ -44,11 +45,14 @@ publications:
       
 
     papers:
+      - title: "Nvidia Graphics"
+        authors: June 2021 - Present | Bangalore, India
+        conference: 
+    papers:
       - title: "ARP Investments"
         authors: October 2020 - December 2020 | New York, USA
-        conference: |
-          - Worked on factor construction
-          - Hello World
+        conference: Worked on factor construction on an alternative data chosen from nearly 130 datasets listed on Eagle Alpha. Tested the signal using alphalens and 
+        backtested a Q5-Q1 long short cross-sectional portfolio using pyfolio. 
 
 education:
     - degree: B.Tech Electrical Engineering
@@ -90,77 +94,79 @@ educationcomplete:
 
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
+    - role: Competitive Programming
+      time: 2018 - Present
       company: Startup Hubs, San Francisco
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+          - Active Member on Codeforces and Codechef
+          - "Codeforces - Pranjal_Mangal(Max rating: 1533)"
+          - "Codechef - pmangal (Max rating: 1772)"
+          - Global Rank 340 in May Cook-Off 2020 Division 2
+          - Global Rank 886 in July Challenge 2020 Division 2
+          - Global Rank 915 in June Cook-Off 2020 Division 2
 
-          - Bullet point
-          - Bullet point
-
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Joint Secretary
+      time: 2019 - Present
+      company: Artificial Intelligence and Electronics Society, IIT Roorkee
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        ArIES is a cluster of tech enthusiasts who experiment with Artificial Intelligence and Electronics. Our team has successfully represented the institute at various national and international competitions related to our field.
+        My responsibilities in the group includes organizing lectures and workshops related to Electronics and Data Science.
+        My responsibilities also include mentoring projects undertaken by students for the Annual Technical Exhibition of IIT Roorkee.
+        I have successfully mentored seven projects till date:
+          - Online Class Note Maker: An application to summarize presentations and images.
+          - Hand Cricket: A real time hand cricket game against computer built using mediapipe.
+          - Waste Detection Bin: A simulation of bin to detect and filter waste.
+          - Logo Detection and Analysis : An analysis on logos placement and company’s investment in a cricket match feed.
+          - Voice Controlled Chess : A voice controlled version of the standard single player chess game.
+          - Temple Run VR : A Virtual Reality version of the famous mobile game, Temple Run.
+          - KK2 Drone : A quadcopter based on the KK2 flight controller.
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Student Mentor
+      time: November 2020 - May 2021
+      company: Student Mentorship Program, IIT Roorkee
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Guided newly admitted students through their first year journey by helping them and directing them to college resources, alerting them with do's and dont's and helping them with their semester subjects.
 
-          - Bullet point
-          - Bullet point
+    - role: Undergraduate Teaching Assistant (Applied Physics)
+      time: January 2020 - March 2020
+      details: |
+        Was responsible for clearing doubts, taking revision classes and providing study material to the students taking up the course.
+    
+    - role: National Service Scheme
+      time: July 2018 - May 2019
+      details: |
+        Completed a year under National Service Scheme in the field of Web Development. Our team was responsible for maintaining the Institute NSS website. Also helped in creating awareness for social issues and promoting the events addressing the same.
+    
+    - role: Volunteer
+      time: March 2019 
+      company: Cognizance
+      details: |
+        Helped in successfully concluding Departmental Cognizance 2019.
 
 projects:
     title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    intro:
 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: BSE Serverless Predictor
+        link: "https://github.com/ariesiitr/Trading-Desk"
+        tagline: "A serverless model run periodically using Amazon Web Services Serverless Computing technologies to update the dataset and features at a regular interval. A set of old and volatile stocks are selected and run through a LSTM Network to make daily predictions for stock price."
 
-      - title: DevStudio
+      - title: Feedback Prediction System
+        link: "https://github.com/mangalpranjal/Feedback-Prediction-System"
+        tagline: An NLP based system that can be used to store the vocal feedback of an exhibit and also score it depending on the feedback by the visitor. Integrated Google Speech to Text API to convert the feedback to text and feed it to the deep learning model.
+
+      - title: Eye Controlled Wheelchair
+        link: "https://github.com/mangalpranjal/Eye-Controlled-Wheelchair"
+        tagline: Made a prototype of a wheelchair for people who have lost their ability of locomotion using legs and forearms. The movement of the wheelchair is controlled by the motion of the pupil of the eyes. Used face detection and facial landmarks to extract the eyes and applied image processing on the eyes to locate the pupil’s position. Sent the data(position of the pupil) wirelessly from microprocessor to NodeMCU, which controls the wheels
+
+      - title: Automated Drone
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: Quadcopter that takes off and lands following a predetermined path with the help of external GPS without using manual controller. QGroundControl sets the course of flight and communicates with the quadcopter using telemetries.
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-
+      - title: Cleaning Bot
+        link: "https://github.com/mangalpranjal/cleaning-bot"
+        tagline: A smart bot with mops and vacuum cleaner that can clean any size spaces. The bot uses the readings received from the 3 ultrasonic sensors attached to it to automatically change its direction of motion. The bot is completely controlled by an Arduino Mega.
 
 skills:
     title: Skills &amp; Proficiency
