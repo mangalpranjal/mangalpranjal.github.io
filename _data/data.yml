@@ -32,10 +32,10 @@ sidebar:
         level: Native
 
     interests:
-      - item: Outdoor Sports
+      - item:
         link:
 
-      - item: Binge Watching
+      - item:
         link:
 
 career-profile:
@@ -45,47 +45,14 @@ career-profile:
       projects till date. Part time Competitive Programmer and a highly motivated folk. Have successfully explored many domains of Technology including Web Development, ML, Drones,
       Arduino/Raspberry Pi, Algorithmic Trading and many more. With a current CGPA of 9.526, I currently stand at Number 5 in Electrical Engineering Department.
 
-news:
-    title: News
+acheivements:
+    title: Achievements
     intro: |
         
     
     posts:
-        - time: December 2020
-          title: Completed 2 month long internship with Versor Investments as a Quantitative Strategist.
-        
-        - time: September 2020
-          title: Bagged an Internship with Nvidia Graphics through Campus Placement Cell.
-          
-        - time: March 2020
-          title: The pandemic arouses fears in India. Complete lockdown forced in the country.
-          
-        - time: December 2019
-          title: Successfully demonstrated Eye Controlled Wheelchair Project in Inter IIT Tech Meet 8.0 . Our contingent bagged overall first prize.
-          
-        - time: July 2019
-          title: Successfully made a drone controlled by Pixhawk flight controller.
-
-        - time: March 2019
-          title: Completed my first College Project using Arduino (Cleaning Bot).
-        
-        - time: January 2019.
-          title: Binge Watched complete MCU for the first time.
-        
-        - time: December 2018
-          title: Received Semester 1 Grades with Overall Grade Point of 9.47.
-        
-        - time: June 2018
-          title: Achieved AIR 1512 in JEE Advanced in shortlisted 2 lakh candidates.
-        
-        - time: April 2018
-          title: Achieved AIR 1490 in JEE Mains in nearly 14 lakh applicants.
-        
-        - time: 2018
-          title: Successfully completed high school with percentage of 93.2 % (CBSE).
-        
-        - time: 2016
-          title: Successfully completed Class X with a grade point of 10.
+        - time: 
+          title: Secured All India Rank 1512 in Joint Entrance Examination(JEE) Advanced 2018
 
 education:
     - degree: B.Tech Electrical Engineering
@@ -105,12 +72,6 @@ education:
       time: 2015-2016
       details: |
         CGPA: 10
-
-    - degree: Internship (Versor Investments)
-      university: USA
-      time: October 2020- December 2020
-      details: |
-        Quantitative Strategist
 
 educationcomplete:
     - degree: B.Tech Electrical Engineering
