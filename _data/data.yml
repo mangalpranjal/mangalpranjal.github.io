@@ -34,7 +34,7 @@ sidebar:
 career-profile:
     title: Profile
     summary: |
-      Pre-final year student at Indian Institute of Technology, Roorkee with majors in Electrical Engineering and minors in Computer Science and Engineering. With some tremendous contributions in field of Software Development, Data Science and Electrical Engineering alongwith CGPA of 9.526, I am a highly motivated folk. My time management skills are allow me to take up any challenging task successfully. My expericences in wide variety of fields have enabled me to create end to end applications. I am a constant learner and goto person for any kind of task.
+      Pre-final year student at Indian Institute of Technology, Roorkee with Majors in Electrical Engineering and Minors in Computer Science and Engineering. With some tremendous contributions in field of Software Development, Data Science and Electrical Engineering alongwith CGPA of 9.526, I am a highly motivated folk. My time management skills allow me to take up any challenging task successfully. My expericences in wide variety of fields have enabled me to create end to end applications. I am a constant learner and goto person for any kind of task.
 
 publications:
     title: Internship
@@ -44,7 +44,7 @@ publications:
     papers:
       - title: "Nvidia Graphics"
         authors: June 2021 - Present | Bangalore, India
-        conference: 
+        conference: Working on convergence using Reduced RTL. My work involves creating a scalable GUI which categorizes macros, is easily configurable and error free. Also working on scheduled updation of Confluence pages which lists changes in macros over time and values of macros that can be taken up for build thereby saving a lot of time dealing with build errors. 
     papers:
       - title: "ARP Investments"
         authors: October 2020 - December 2020 | New York, USA
