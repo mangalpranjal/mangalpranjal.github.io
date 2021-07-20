@@ -86,7 +86,7 @@ projects:
     assignments:
       - title: ARP Investments
         link: "https://github.com/ariesiitr/Trading-Desk"
-        tagline: "Worked on factor construction on an alternative data chosen from nearly 130 datasets listed on Eagle Alpha. Tested the signal using alphalens and backtested a Q5-Q1 long short cross-sectional portfolio using pyfolio."
+        tagline: "Wrkd on factor construction on an alternative data chosen from nearly 130 datasets listed on Eagle Alpha. Tested the signal using alphalens and backtested a Q5-Q1 long short cross-sectional portfolio using pyfolio."
       - title: Feedback Prediction System
         #link: "#"
         tagline: "An NLP based system that can be used to store the vocal feedback of an exhibit and also score it depending on the feedback by the visitor."
