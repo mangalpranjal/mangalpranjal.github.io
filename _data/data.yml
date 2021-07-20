@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Pranjal Mangal
     tagline: Computer Vision and Machine Learning Enthusiast
-    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: prnjlmangal@gmail.com
@@ -31,11 +31,11 @@ sidebar:
       - idiom: Hindi
         level: Native
 
-    skills:
-      - item: PHP
+    interests:
+      - item: Outdoor Sports
         link:
 
-      - item:
+      - item: Binge Watching
         link:
 
 career-profile:
@@ -45,23 +45,11 @@ career-profile:
       projects till date. Part time Competitive Programmer and a highly motivated folk. Have successfully explored many domains of Technology including Web Development, ML, Drones,
       Arduino/Raspberry Pi, Algorithmic Trading and many more. With a current CGPA of 9.526, I currently stand at Number 5 in Electrical Engineering Department.
 
-news:
-    title: Achievements
-    intro: |
-        
-    
-    posts:
-        - time: 
-          title: Secured All India Rank 1512 in Joint Entrance Examination(JEE) Advanced 2018
-        - time:
-          title: Secured All India Rank 1490 in Joint Entrance Examination(JEE) Main 2018
-        - time:
-          title: Participated in Inter IIT Tech Meet 8.0 where the contingent bagged the first prize
 
 education:
     - degree: B.Tech Electrical Engineering
       university: Indian Institute of Technology, Roorkee
-      time: 2018-Present
+      time: 2018-current
       details: |
         CGPA: 9.52
       
@@ -77,58 +65,197 @@ education:
       details: |
         CGPA: 10
 
+    - degree: Internship (Versor Investments)
+      university: USA
+      time: October 2020- December 2020
+      details: |
+        Quantitative Strategist
 
-projects:
-    title: Internship
-    intro: >
-      List of Projects undertaken in my Undergrad :
+educationcomplete:
+    - degree: B.Tech Electrical Engineering
+      university: Indian Institute of Technology, Roorkee
+      time: 2018-current
+      details: |
+        CGPA: 9.52
+      
+    - degree: Class XII
+      university: Aklank Day Boarding and Residential School, Kota
+      time: 2017-2018
+      details: |
+        Percentage: 93.2
+     
+    - degree: Class X
+      university: Delhi Public School, Gwalior
+      time: 2015-2016
+      details: |
+        CGPA: 10
 
-    assignments:
-      - title: ARP Investments
-        link: "https://github.com/ariesiitr/Trading-Desk"
-        tagline: "Wrkd on factor construction on an alternative data chosen from nearly 130 datasets listed on Eagle Alpha. Tested the signal using alphalens and backtested a Q5-Q1 long short cross-sectional portfolio using pyfolio."
-      - title: Feedback Prediction System
+    - degree: Internship (Versor Investments)
+      university: USA
+      time: October 2020- December 2020
+      details: |
+        Quantitative Strategist
+
+
+#experiences:
+    #- role: Lead Developer
+      #time: 2015 - Present
+      #company: Startup Hubs, San Francisco
+      #details: |
+        #Describe your role here lorem ipsum dolor sit amet, consectetuer
+        #adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        #Cum sociis natoque penatibus et magnis dis parturient montes,
+        #nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        #pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+        #enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+        #error sit voluptatem accusantium doloremque laudantium, totam rem
+        #aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+        #architecto beatae vitae dicta sunt explicabo.
+
+          #- Bullet point
+          #- Bullet point
+
+    #- role: Senior Software Engineer
+      #time: 2014 - 2015
+      #company: Google, London
+      #details: |
+        #Describe your role here lorem ipsum dolor sit amet, consectetuer
+        #adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        #Cum sociis natoque penatibus et magnis dis parturient montes,
+        #nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        #pellentesque eu, pretium quis, sem.
+
+          #- Bullet point
+          #- Bullet point
+
+    #- role: UI Developer
+      #time: 2012 - 2014
+      #company: Amazon, London
+      #details: |
+        #Describe your role here lorem ipsum dolor sit amet, consectetuer
+        #adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        #Cum sociis natoque penatibus et magnis dis parturient montes,
+        #nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        #pellentesque eu, pretium quis, sem.
+
+          #- Bullet point
+          #- Bullet point
+
+#projects:
+    #title: Projects
+    #intro: >
+      #You can list your side projects or open source libraries in this
+      #section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      #Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+
+    #assignments:
+      #- title: Velocity
+        #link: "#hook"
+        #tagline: "A responsive website template designed to help startups promote, market and sell their products."
+
+      #- title: DevStudio
         #link: "#"
-        tagline: "An NLP based system that can be used to store the vocal feedback of an exhibit and also score it depending on the feedback by the visitor."
+        #tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: Eye Controlled Wheelchair
-        link: "https://github.com/mangalpranjal/Eye-Controlled-Wheelchair"
-        tagline: "Prototype of a wheelchair for people who have lost their ability of locomotion using legs and forearms."
-
-      - title: Automated Drone
+      #- title: Tempo
         #link: "#"
-        tagline: "A Quadcopter that takes off and lands following a predetermined path with the help of external GPS without using manual controller."
+        #tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Cleaning Bot
-        link: "https://github.com/mangalpranjal/cleaning-bot"
-        tagline: "A smart bot with mops and vacuum cleaner that can clean any size spaces"
-
-projects:
-    title: Projects
-    intro: >
-      List of Projects undertaken in my Undergrad :
-
-    assignments:
-      - title: Nvidia Graphics
-        link: "https://github.com/ariesiitr/Trading-Desk"
-        tagline: "Worked on factor construction on an alternative data chosen from nearly 130 datasets listed on Eagle Alpha. Tested the signal using alphalens and backtested a Q5-Q1 long short cross-sectional portfolio using pyfolio."
-      - title: Feedback Prediction System
+      #- title: Atom
         #link: "#"
-        tagline: "An NLP based system that can be used to store the vocal feedback of an exhibit and also score it depending on the feedback by the visitor."
+        #tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Eye Controlled Wheelchair
-        link: "https://github.com/mangalpranjal/Eye-Controlled-Wheelchair"
-        tagline: "Prototype of a wheelchair for people who have lost their ability of locomotion using legs and forearms."
-
-      - title: Automated Drone
+      #- title: Delta
         #link: "#"
-        tagline: "A Quadcopter that takes off and lands following a predetermined path with the help of external GPS without using manual controller."
+        #tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-      - title: Cleaning Bot
-        link: "https://github.com/mangalpranjal/cleaning-bot"
-        tagline: "A smart bot with mops and vacuum cleaner that can clean any size spaces"
+publications:
+    title: Publications
+    intro: |
+      
 
+    papers:
+      - title: "Unsupervised behaviour analysis and magnification (uBAM) using deep learning"
+        authors: B. Brattoli*, U. Büchler*, M. Dorkenwald, P. Reiser, F. Helmchen, A. S. Wahl, B. Ommer
+        conference: Nature Machine Intelligence, 2021
+      
+      - title: "Sharing Matters for Generalization in Deep Metric Learning"
+        authors: T. Milbich*, K. Roth*, B. Brattoli, B. Ommer
+        conference: tPAMI, 2020
+        
+      - title: "Rethinking Zero-shot Video Classification: End-to-end Training for Realistic Applications"
+        authors: B. Brattoli, J. Tighe, F. Zhdanov, P. Perona, K. Chalupka
+        conference: CVPR, 2020
+        
+      - title: "MIC: Mining Interclass Characteristics for Improved Metric Learning"
+        authors: B. Brattoli*, K. Roth*, B. Ommer
+        conference: ICCV, 2019
 
+      - title: "Improving Spatiotemporal Self-Supervision by Deep Reinforcement Learning"
+        authors: B. Brattoli*, U. Buechler*, B. Ommer
+        conference: ECCV, 2018
+
+      - title: "LSTM Self-Supervision for Detailed Behavior Analysis"
+        authors: B. Brattoli*, U. Buechler*, A. Wahl, M. Schwab, B. Ommer
+        conference: CVPR, 2017
+
+      - title: "Cross and Learn: Cross-Modal Self-Supervision"
+        authors: N. Sayer, B. Brattoli, B. Ommer
+        conference: oral at GCPR, 2018
+
+      - title: "X-GAN: Improving Generative Adversarial Networks with ConveX Combinations"
+        authors: O. Blum, B. Brattoli, B. Ommer
+        conference: oral at GCPR, 2018
+
+      - title: "Optogenetically stimulating intact rat corticospinal tract post-stroke restores motor control through regionalized functional circuit formation"
+        authors: A. S. Wahl*, U. Büchler*, A. Brändli, B. Brattoli, S. Musall, H. Kasper, B. V. Ineichen, F. Helmchen, B. Ommer & M. E. Schwab
+        conference: "Nature Communications, 2017"
+        
+      - title: "Early reduced behavioral activity induced by large strokes affects the efficiency of enriched environment in rats"
+        authors: A. S. Wahl, Erlebach, E, B. Brattoli, U. Büchler, J. Kaiser, V.B. Ineichen, A.C. Mosberger, S. Schneeberger, S. Imobersteg, M. Wieckhorst, M. Stirn, A. Schroeter, B. Ommer, M.E. Schwab
+        conference: "Journal of Cerebral Blood Flow & Metabolism, 2018"
+
+news:
+    title: News
+    intro: |
+        
+    
+    posts:
+        - time: December 2020
+          title: Completed 2 month long internship with Versor Investments as a Quantitative Strategist.
+        
+        - time: September 2020
+          title: Bagged an Internship with Nvidia Graphics through Campus Placement Cell.
+          
+        - time: March 2020
+          title: The pandemic arouses fears in India. Complete lockdown forced in the country.
+          
+        - time: December 2019
+          title: Successfully demonstrated Eye Controlled Wheelchair Project in Inter IIT Tech Meet 8.0 . Our contingent bagged overall first prize.
+          
+        - time: July 2019
+          title: Successfully made a drone controlled by Pixhawk flight controller.
+
+        - time: March 2019
+          title: Completed my first College Project using Arduino (Cleaning Bot).
+        
+        - time: January 2019.
+          title: Binge Watched complete MCU for the first time.
+        
+        - time: December 2018
+          title: Received Semester 1 Grades with Overall Grade Point of 9.47.
+        
+        - time: June 2018
+          title: Achieved AIR 1512 in JEE Advanced in shortlisted 2 lakh candidates.
+        
+        - time: April 2018
+          title: Achieved AIR 1490 in JEE Mains in nearly 14 lakh applicants.
+        
+        - time: 2018
+          title: Successfully completed high school with percentage of 93.2 % (CBSE).
+        
+        - time: 2016
+          title: Successfully completed Class X with a grade point of 10.
 
 
 skills:
@@ -136,22 +263,22 @@ skills:
 
     toolset:
       - name: Python
-        level: 
+        level: 100%
+
+      - name: PyTorch
+        level: 90%
+
+      - name: Tensorflow
+        level: 60%
+
+      - name: Caffe
+        level: 80%
+
+      - name: Matlab
+        level: 90%
 
       - name: C/C++
-        level: 
-
-      - name: Arduino/ Raspberry Pi
-        level: 
-
-      - name: Finance
-        level: 
-
-      - name: Competitive Programming
-        level: 
-
-      - name: Github
-        level: 
+        level: 75%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="https://www.linkedin.com/in/pranjal-mangal-250327171/" target="_blank" rel="nofollow">Pranjal Mangal</a>
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
