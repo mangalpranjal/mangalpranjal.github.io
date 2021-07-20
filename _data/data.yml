@@ -77,56 +77,33 @@ education:
       details: |
         CGPA: 10
 
-educationcomplete:
-    - degree: B.Tech Electrical Engineering
-      university: Indian Institute of Technology, Roorkee
-      time: 2018-current
-      details: |
-        CGPA: 9.52
-      
-    - degree: Class XII
-      university: Aklank Day Boarding and Residential School, Kota
-      time: 2017-2018
-      details: |
-        Percentage: 93.2
-     
-    - degree: Class X
-      university: Delhi Public School, Gwalior
-      time: 2015-2016
-      details: |
-        CGPA: 10
 
-experiences:
-    - role: Mentor
-      time: November 2020 - Present
-      company: SMP, IIT Roorkee
-      details: |
-        Mentoring fresh undergrad students admitted to IIT Roorkee through JEE Advanced.
-    - role: Member
-      time: 2019 - Present
-      company: ArIES, IIT Roorkee
-      details: |
-        ArIES is a cluster of tech enthusiasts who experiment with Artificial Intelligence and Electronics. Our team has successfully
-        represented the institute at various national and international competitions related to our field.
+projects:
+    title: Internship
+    intro: >
+      List of Projects undertaken in my Undergrad :
 
-    - role: Teaching Assistant
-      time: Jan 2020 - March 2020
-      company: ARP, IIT Roorkee
-      details: |
-        Was responsible for clearing doubts, taking revision classes and providing study material to the students taking up the course (Applied Physics). 
-      
-    - role: Member
-      time: July 2018 - May 2019
-      company: National Service Scheme, IIT Roorkee
-      details: |
-        Completed a year under National Service Scheme in the field of Web Development. Our team was responsible for maintaining the 
-        Institute NSS website. Also helped in creating awareness for social issues and promoting the events addressing the same. 
+    assignments:
+      - title: ARP Investments
+        link: "https://github.com/ariesiitr/Trading-Desk"
+        tagline: "Worked on factor construction on an alternative data chosen from nearly 130 datasets listed on Eagle Alpha. Tested the signal using alphalens and backtested a Q5-Q1 long short cross-sectional portfolio using pyfolio."
+        Test text
+      - title: Feedback Prediction System
+        #link: "#"
+        tagline: "An NLP based system that can be used to store the vocal feedback of an exhibit and also score it depending on the feedback by the visitor."
 
-    - role: Volunteer
-      time: March 2019
-      company: Cognizance, IIT Roorkee
-      details: |
-        Helped in successfully concluding Departmental Cognizance 2019.
+      - title: Eye Controlled Wheelchair
+        link: "https://github.com/mangalpranjal/Eye-Controlled-Wheelchair"
+        tagline: "Prototype of a wheelchair for people who have lost their ability of locomotion using legs and forearms."
+
+      - title: Automated Drone
+        #link: "#"
+        tagline: "A Quadcopter that takes off and lands following a predetermined path with the help of external GPS without using manual controller."
+
+      - title: Cleaning Bot
+        link: "https://github.com/mangalpranjal/cleaning-bot"
+        tagline: "A smart bot with mops and vacuum cleaner that can clean any size spaces"
+
 
 projects:
     title: Projects
