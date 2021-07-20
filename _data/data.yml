@@ -124,7 +124,6 @@ experiences:
         Cum sociis natoque penatibus et magnis dis parturient montes,
         nascetur ridiculus mus. Donec quam felis, ultricies nec,
         pellentesque eu, pretium quis, sem.
-
           - Bullet point
           - Bullet point
 
@@ -221,8 +220,10 @@ news:
         
     
     posts:
-        - time: December 2020
-          title: Completed 2 month long internship with Versor Investments as a Quantitative Strategist.
+        - time: ARP Investments
+          title: |
+          Completed 2 month long internship with Versor Investments as a Quantitative Strategist.
+              - Tested Factors
         
         - time: September 2020
           title: Bagged an Internship with Nvidia Graphics through Campus Placement Cell.
