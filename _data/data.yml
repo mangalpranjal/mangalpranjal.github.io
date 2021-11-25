@@ -34,7 +34,7 @@ sidebar:
 career-profile:
     title: Profile
     summary: |
-      Pre-final year student at Indian Institute of Technology, Roorkee with Majors in Electrical Engineering and Minors in Computer Science and Engineering. With some tremendous contributions in field of Software Development, Data Science and Electrical Engineering alongwith CGPA of 9.526, I am a highly motivated folk. My time management skills allow me to take up any challenging task successfully. My expericences in wide variety of fields have enabled me to create end to end applications. I am a constant learner and goto person for any kind of task.
+      Final year student at Indian Institute of Technology, Roorkee with Majors in Electrical Engineering and Minors in Computer Science and Engineering. With some tremendous contributions in field of Software Development, Data Science and Electrical Engineering alongwith CGPA of 9.427, I am a highly motivated folk. My time management skills allow me to take up any challenging task successfully. My expericences in wide variety of fields have enabled me to create end to end applications. I am a constant learner and goto person for any kind of task.
 
 publications:
     title: Internship
@@ -42,7 +42,7 @@ publications:
       
     papers:
       - title: "Nvidia Graphics"
-        authors: June 2021 - Present | Bangalore, India
+        authors: June 2021 - July 2021 | Bangalore, India
         conference: Working on convergence using Reduced RTL. My work involves creating a scalable GUI which categorizes macros, is easily configurable and error free. Also working on scheduled updation of Confluence pages which lists changes in macros over time and values of macros that can be taken up for build thereby saving a lot of time dealing with build errors. 
     
       - title: "ARP Investments"
@@ -54,7 +54,7 @@ education:
       university: Indian Institute of Technology, Roorkee
       time: 2018-current
       details: |
-        CGPA: 9.526
+        CGPA: 9.427
       
     - degree: Class XII
       university: Aklank Day Boarding and Residential School, Kota
@@ -94,12 +94,13 @@ experiences:
       details: |
           - Active Member on Codeforces and Codechef
           - "Codeforces - Pranjal_Mangal(Max rating: 1533)"
-          - "Codechef - pmangal (Max rating: 1772)"
+          - "Codechef - pmangal (Max rating: 1881)"
+          - Global Rank 212 in Codechef Starters 10
           - Global Rank 340 in May Cook-Off 2020 Division 2
           - Global Rank 886 in July Challenge 2020 Division 2
           - Global Rank 915 in June Cook-Off 2020 Division 2
 
-    - role: Joint Secretary
+    - role: Additional Secretary
       time: 2019 - Present
       company: Artificial Intelligence and Electronics Society, IIT Roorkee
       details: |
@@ -144,24 +145,23 @@ projects:
     assignments:
       - title: BSE Serverless Predictor
         link: "https://github.com/ariesiitr/Trading-Desk"
-        tagline: "A serverless model run periodically using Amazon Web Services Serverless Computing technologies to update the dataset and features at a regular interval. A set of old and volatile stocks are selected and run through a LSTM Network to make daily predictions for stock price."
+        tagline: "A serverless model run periodically using AWS and integrated with Slack to predict market for next business day. A set of volatile stocks are selected and run through a neural network to make daily predictions for stock price."
 
       - title: Feedback Prediction System
         link: "https://github.com/mangalpranjal/Feedback-Prediction-System"
-        tagline: An NLP based system that can be used to store the vocal feedback of an exhibit and also score it depending on the feedback by the visitor. Integrated Google Speech to Text API to convert the feedback to text and feed it to the deep learning model.
+        tagline: An application that takes vocal feedback from visitors in an exhibition and scores the exhibit based on feedback. Worked on speech to text conversion using Text to Speech API, get feedback scores and update them on a webpage.
 
       - title: Eye Controlled Wheelchair
         link: "https://github.com/mangalpranjal/Eye-Controlled-Wheelchair"
-        tagline: Made a prototype of a wheelchair for people who have lost their ability of locomotion using legs and forearms. The movement of the wheelchair is controlled by the motion of the pupil of the eyes. Used face detection and facial landmarks to extract the eyes and applied image processing on the eyes to locate the pupil’s position. Sent the data(position of the pupil) wirelessly from microprocessor to NodeMCU, which controls the wheels
+        tagline: Made a prototype of a wheelchair controlled by the motion of pupil, for people suffering from quadriplegia. The motion is tracked periodically and data sent wirelessly to NodeMCU to power the wheels.
 
       - title: Automated Drone
         link: "#"
-        tagline: Quadcopter that takes off and lands following a predetermined path with the help of external GPS without using manual controller. QGroundControl sets the course of flight and communicates with the quadcopter using telemetries.
+        tagline: Quadcopter which follows a predetermined path with the help of external GPS without using manual controller. QGroundControl sets the course of flight and communicates with the quadcopter using telemetries.
 
       - title: Cleaning Bot
         link: "https://github.com/mangalpranjal/cleaning-bot"
-        tagline: A smart bot with mops and vacuum cleaner that can clean any size spaces. The bot uses the readings received from the 3 ultrasonic sensors attached to it to automatically change its direction of motion. The bot is completely controlled by an Arduino Mega.
-
+        tagline: A smart bot controlled using Arduino Mega with mops and vacuum cleaner that can clean any size spaces. Arduino takes readings from three ultrasonic sensors attached to bot to power motor drivers suitably.
 skills:
     title: Skills &amp; Proficiency
 
